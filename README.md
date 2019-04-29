@@ -1,12 +1,12 @@
 # powerlaw
 
-C++ implementation of 'Power-law distributions in empirical data', A. Clauset, C.R. Shalizi and M.E.J. Newman. SIAM Review 51(4), 661 - 703 (2009).
+C++ implementation of ['Power-law distributions in empirical data'](https://arxiv.org/abs/0706.1062), A. Clauset, C.R. Shalizi and M.E.J. Newman. SIAM Review 51(4), 661 - 703 (2009).
 
 ### Prerequisites
 
 The complication requires: 
-* [boost library] (http://www.boost.org/).
-* [cmake] (http://www.cmake.org/).
+* [boost library](http://www.boost.org/).
+* [cmake](http://www.cmake.org/).
 
 ## Usage
 
