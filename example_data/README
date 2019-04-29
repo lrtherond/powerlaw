@@ -1,0 +1,12 @@
+Fitting 'discrete_data.txt' should result in:
+
+* alpha of 2.58
+* xmin of 2
+* Log-likelihood of -9155.63
+
+
+Fitting 'continues_data.txt' should result in:
+
+* alpha of 2.53282
+* xmin of 1.43628
+* Log-likelihood of -9276.42
